@@ -1,3 +1,0 @@
-<aura:component>
-<lightning:button> click me</lightning:button>
-</aura:component>
